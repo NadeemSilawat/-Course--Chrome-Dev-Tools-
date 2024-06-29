@@ -11,9 +11,6 @@ This repository serves as the slides, demos and exercises for the Frontend Maste
 
 - Course repository: [https://github.com/jkup/mastering-chrome-devtools](https://github.com/jkup/mastering-chrome-devtools)
 - Official docs: [https://developers.google.com/web/tools/chrome-devtools](https://developers.google.com/web/tools/chrome-devtools)
-- My Twitter: [https://twitter.com/jkup](https://twitter.com/jkup)
-- My email : [jon.kuperman@gmail.com](mailto:jon.kuperman@gmail.com)
-
 ## Why learn DevTools?
 
 - Level up your dev skills
@@ -34,14 +31,4 @@ There are so many amazing courses that teach you how to **create** web applicati
 1. Memory
 1. Auditing
 
-## Who am I?
 
-![Jon Kuperman](jon.jpeg)
-
-My name is Jon Kuperman. I'm an engineer at Adobe working on their Creative Cloud. Before that I worked on the Brave Browser and Twitter.com.
-
-I write on my personal blog [jonkuperman.com](https://jonkuperman.com) and teach workshops on Chrome DevTools and Accessibility!
-
-## Let's begin!
-
-Let's head over to the [Introduction](/lesson/Introduction) to begin.
